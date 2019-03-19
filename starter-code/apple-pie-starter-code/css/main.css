@@ -1,0 +1,59 @@
+html, body {
+  margin: 0;
+  ont-family: 'Source Sans Pro', sans-serif;
+  
+}
+
+.simple {
+  background-color: rgb(200,200, 200)
+  padding: 15px;
+  
+}
+
+#pie-image {
+    background-image: url("../images/apple-pie.jpg");
+    height: 30vh;
+    margin: 20vh;
+    padding:20vh;
+    background-size: cover;
+  }
+
+  #apple {
+
+    text-align: center;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+  
+  }
+
+  #first-par {
+    text-align: justify;
+    margin: 20px;
+    padding: 150px;
+    padding-top: 50px;
+    font-family: 'Source Sans Pro', sans-serif;
+    
+    
+  }
+
+  #image2  {
+  
+    padding: 50px calc((100vw - 960px) / 2);
+    
+}
+
+  .container {
+
+    padding: 50px calc((100vw - 960px) / 2);
+
+   }
+
+   hr {
+     margin: 25px 0;
+   }
+
+   #image3  {
+  
+    padding: 50px calc((100vw - 960px) / 2);
+    
+}
